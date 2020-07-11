@@ -9,7 +9,7 @@ Made at the beginning of my training, and scrapped since it felt a little naive.
 * Skills section
 * Link to projects
 
-# Imporvements and Edits
+# Improvements and Edits
 * Edit About me text
 * Feels more like a personal blog site, work on the styling and design to make more professional
 * Choose a better colour scheme
